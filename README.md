@@ -1,8 +1,1 @@
-### Remx
-
-I quite enjoy Go
-
-and...
-maybe even....
-
-some c++!?
+rust syntax has to be a joke by the creators
